@@ -1,0 +1,13 @@
+.step_card{
+    margin : 5px ;
+}
+.panel{
+    display : flex ;
+
+}
+.prev{
+    flex-grow : 1 ;
+}
+.next{
+    flex-grow: 1 ;
+}
